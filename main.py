@@ -1,6 +1,7 @@
 import turtle
 
 t = turtle.Turtle()
+t.pensize(5)
 
 for c in ['red', 'green', 'yellow', 'blue']:
     t.color(c)
