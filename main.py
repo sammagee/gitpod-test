@@ -7,4 +7,4 @@ for c in ['red', 'green', 'yellow', 'blue']:
     t.forward(75)
     t.left(90)
     
-turtle.mainloop()
+turtle.exitonclick()
