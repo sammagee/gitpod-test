@@ -2,6 +2,6 @@ image:
   file: Dockerfile
 ports:
   - port: 6080
-    onOpen: ignore
+    onOpen: notify
   - port: 5900
     onOpen: ignore
